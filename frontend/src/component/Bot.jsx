@@ -39,7 +39,7 @@ function Bot() {
          {/* Navbar & Header */}
       <header className="fixed top-0 left-0 w-full border-b border-gray-800 bg-[#0d0d0d] z-10">
         <div className=" container mx-auto flex justify-between items-center px-6 py-4">
-          <h1 className="text-lg font-bold">Lumos</h1>
+          <h1 className="text-lg font-bold">DataMind</h1>
           <FaUserCircle size={30} className="cursor-pointer" />
         </div>
       </header>
@@ -51,7 +51,7 @@ function Bot() {
             // Centered welcome message
             <div className="text-center text-gray-400 text-lg">
               👋 Hi, I'm{" "}
-              <span className="text-green-500 font-semibold">Lumos</span>.
+              <span className="text-green-500 font-semibold">DataMind</span>.
             </div>
           ) : (
             <>
@@ -86,7 +86,7 @@ function Bot() {
             <input
               type="text"
               className="flex-1 bg-transparent outline-none text-white placeholder-gray-400 px-2"
-              placeholder="Ask Lumos..."
+              placeholder="Ask DataMind..."
              value={input}
              onChange={(e) => setInput(e.target.value)}
              onKeyDown={handleKeyPress}
