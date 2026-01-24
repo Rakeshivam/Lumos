@@ -1,6 +1,6 @@
-# DataMind - AI Chatbot
+# Lumos - AI Chatbot
 
-**DataMind** is an AI-powered chatbot application built with **Node.js**, **React.js**, **Express.js**, and **MongoDB**. It delivers intelligent responses in real-time, providing an interactive and engaging experience.
+**Lumos** is an AI-powered chatbot application built with **Node.js**, **React.js**, **Express.js**, and **MongoDB**. It delivers intelligent responses in real-time, providing an interactive and engaging experience.
 
 ---
 
